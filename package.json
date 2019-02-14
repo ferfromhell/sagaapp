@@ -1,0 +1,23 @@
+{
+  "name": "saga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferfromhell/sagaapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferfromhell/sagaapp/issues"
+  },
+  "homepage": "https://github.com/ferfromhell/sagaapp#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.5"
+  }
+}
